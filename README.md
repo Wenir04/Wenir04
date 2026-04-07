@@ -4,7 +4,8 @@
 
 В данный моммент учусь в МГТУ имени Н.Э.Баумана на специальности компьютерная безопасность
 
-Мои проекты можете посмотреть [тут](https://github.com/Wenir04/Portfolio)
+Мои учебные проекты можете посмотреть [тут](https://github.com/Wenir04/Portfolio)
+Хакатон от RWB - модель прогнозирования временного ряда [здесь](https://github.com/Wenir04/RWB---WildHack)
 
 <!--
 **Wenir04/Wenir04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
