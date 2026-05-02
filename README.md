@@ -6,7 +6,7 @@
 
 Мои учебные проекты по DS можете посмотреть [тут](https://github.com/Wenir04/Portfolio)
 
-Учебные проекты [LLM](https://github.com/Wenir04/data_school---LLM-/tree/main)
+Учебные проекты [LLM-Agents](https://github.com/Wenir04/data_school---LLM-/tree/main)
 
 Хакатон от RWB - модель прогнозирования временного ряда [здесь](https://github.com/Wenir04/RWB---WildHack)
 
